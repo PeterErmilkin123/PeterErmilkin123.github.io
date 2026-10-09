@@ -1,6 +1,6 @@
 # Peter Ermilkin | Personal Portfolio
 
-I am a Rutgers University student studying Accounting and Business Analytics & Information Technology, with an interest in tax accounting and practical uses of technology.
+Hello! I'm a Rutgers University Business School student studying Accounting and Business Analytics & Information Technology, with an interest in tax accounting and technology.
 
 This website highlights my education, professional skills, work experience, and selected projects.
 
