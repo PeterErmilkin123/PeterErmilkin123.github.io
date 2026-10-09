@@ -9,10 +9,6 @@ This website highlights my education, professional skills, work experience, and 
 - **Accounting Internship Monitor:** An AI-assisted project designed to track accounting internship opportunities and send notifications for matching openings.
 - **Goldman Sachs Internal Audit Simulation:** A completed Forage job simulation exploring risk assessment, internal controls, and business scenarios, with an Excel risk assessment workbook.
 
-## Built With
-
-HTML and CSS, with a responsive layout for desktop and mobile devices.
-
 ## Contact
 
 - [LinkedIn](https://www.linkedin.com/in/peterermilkin/)
